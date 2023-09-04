@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muskan Gyanani</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img align="right" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" width="400px" alt="muskaann129" />
+<img align="right" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" width="300px" alt="muskaann129" />
 
 - 🔭 I’m currently working on **flask**
 
